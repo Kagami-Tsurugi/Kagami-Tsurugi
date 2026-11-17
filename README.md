@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 soy Yo 👻
 
-<!--
-**Kagami-Tsurugi/Kagami-Tsurugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Aprendiendo y construyendo cosas desde mi celular 📱
 
-Here are some ideas to get you started:
+## 🛠️ En lo que ando
+- ⭐ Un README que se actualiza solo con mis repos favoritos (GitHub Actions) 🤫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Me gusta usar
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+
+## 🌱 Aprendiendo
+- Automatizaciones, APIs y desarrollo móvil
+
+## 📫 Contacto
+- [Kagami Tsurugi](https://github.com/Kagami-Tsurugi)
