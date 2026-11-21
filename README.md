@@ -21,3 +21,4 @@ Traducción al español de [Expressive Cutout](https://github.com/EvanKoe/expres
 
 ## 📫 Contacto
 - [Kagami Tsurugi](https://github.com/Kagami-Tsurugi)
+- [Instagram](https://www.instagram.com/eduardo.lopez.161)
