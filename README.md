@@ -13,5 +13,10 @@
 ## 🌱 Aprendiendo
 - Automatizaciones, APIs y desarrollo móvil
 
+## Contribuciones ✨
+### En proceso...
+Traducción al español de [Expressive Cutout](https://github.com/EvanKoe/expressive-cutout)
+
+
 ## 📫 Contacto
 - [Kagami Tsurugi](https://github.com/Kagami-Tsurugi)
