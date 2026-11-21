@@ -1,4 +1,4 @@
-# ¡Hola! 👋 soy Yo 👻
+# ¡Hola! 🤭 Soy Yo 👻
 
 ✨ Aprendiendo y construyendo cosas desde mi celular 📱
 
